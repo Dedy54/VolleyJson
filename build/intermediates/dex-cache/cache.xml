@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dedyyuristiawan/Downloads/VolleyJson/app/libs/volley.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_919e71f679de5af522ec480f7ad428ac2018c1c5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e13c10f37e730e66988503a884454787b7238442">
+        <dex dex="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_08fa9e31e0d16016155377be8b2e53454ae461ca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_d4c6805febaac9a51ff7f14f00dfefb5a0f09bd8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_a7bcb05b6d6f58a37f90dd14a7aec261485435a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fd3d99f3f3f0b39934e2b8d8e70935e043174616">
+        <dex dex="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b8243f54409f958438f1dc71105b83af4eb8b64e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-20.0.0_ff4970456e772f94419e57210be26680986f0da1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/dedyyuristiawan/Downloads/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-20.0.0_cadfd16f8219085e44fcec8f4868cc7e7fdebad7/classes.dex" />
+    </item>
+
+</items>
